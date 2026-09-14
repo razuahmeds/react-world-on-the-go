@@ -50,9 +50,7 @@
   }
 }
 
-body {
-  margin: 0;
-}
+
 
 #root {
   width: 1126px;
@@ -113,6 +111,7 @@ code {
 
 
 body{
-  background-color: black;
+  /* padding: 50px; */
+  background-color: #1b1a1a;
   color: white;
 }
